@@ -1,5 +1,3 @@
-# Self-Improving-SQL-Agent-
-A pipeline for making robust text-to-SQL agent for your own database.
 # Self-Improving SQL Agent
 
 This project aims to create a self-improving SQL agent that learns from its mistakes and improves its accuracy in generating SQL queries from natural language user requests.
